@@ -1,0 +1,2 @@
+== Action Mailer Previews Example App
+See http://richonrails.com/articles/action-mailer-previews-in-ruby-on-rails-4-1 for details.
